@@ -10,7 +10,6 @@ AND
 
 How to create read replica on GCP for Cloud SQL (MySQL) - Screenshots attached
 
-High level comparison MySQL DB read replica creation on Azure and GCP based on the demo experience. Views expressed here is purely on my personal experience.
  
 Prerequisite : Personal subscription used on both Azure and GCP
 
@@ -57,6 +56,10 @@ Choose the Instance configuration depending upon your requirements
 ![image](https://user-images.githubusercontent.com/49286341/64314968-9a5ddd00-cf65-11e9-90da-cb424f68d83a.png)
 
 
+
+
+
+
 Make sure auto backups and logging enabled
 
 ![image](https://user-images.githubusercontent.com/49286341/64314976-9e89fa80-cf65-11e9-8475-7f55576c6b8c.png)
@@ -93,6 +96,10 @@ READ REPLICA Is ready
 ![image](https://user-images.githubusercontent.com/49286341/64315047-cb3e1200-cf65-11e9-9d59-a139f51f9b3d.png)
 
 
+High Level Comparison matrix below MySQL DB Read Replica creation on Azure and GCP based on the above demo experience. views expressed here is purely based on this demo experience. It may vary individual to individual.
 
 
+
+
+![image](https://user-images.githubusercontent.com/49286341/64316207-ffff9880-cf68-11e9-8652-ee0ccfc9c2ae.png)
 
